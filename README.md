@@ -14,4 +14,8 @@ i want more
 
 [Liberation_PRINT.pdf](https://mauriciocee.github.io/Liberation_PRINT.pdf)
 
+[my insanely great youtube channel](https://www.youtube.com/channel/UCpReSREljY6pMG_pqG83tvg)
+
+
+
 
