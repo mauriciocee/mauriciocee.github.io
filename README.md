@@ -23,3 +23,4 @@ i want more
 ![image](IMG_6395.png)
 
 
+[page2](page2.html)
