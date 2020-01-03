@@ -9,3 +9,6 @@ i want more
 ![adab](ADAB.jpeg)
 
 [Liberation_Cover.pdf](https://github.com/mauriciocee/mauriciocee.github.io/blob/master/Liberation_Cover.pdf)
+
+[Liberation_Cover.pdf](https://mauriciocee.github.io/Liberation_Cover.pdf)
+
