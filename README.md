@@ -20,5 +20,6 @@ i want more
 
 [![Cover Image BP2](https://s3.amazonaws.com/gather.fandalism.com/800x800-1672774--832F43F5-7530-44D4-9BE37D6A0B585718--1577915892765--IMG6195.jpg)](https://distrokid.com/hyperfollow/ciocastaneda/art-of-survival-feat-cmg--hugh-emc)
 
+![image](IMG_6395.png)
 
 
