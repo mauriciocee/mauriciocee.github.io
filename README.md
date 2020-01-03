@@ -12,3 +12,6 @@ i want more
 
 [Liberation_Cover.pdf](https://mauriciocee.github.io/Liberation_Cover.pdf)
 
+[Liberation_PRINT.pdf](https://mauriciocee.github.io/Liberation_PRINT.pdf)
+
+
