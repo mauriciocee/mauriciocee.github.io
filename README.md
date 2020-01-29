@@ -26,3 +26,4 @@ i want more
 [page2](page2.html)
 
 ![image  bay peace 2](680378_843672779000018_9093868594091629919_o.jpg)
+[Liberation_Ebook.epub](https://mauriciocee.github.io/Liberation_Ebook.epub)
